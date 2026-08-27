@@ -1,7 +1,7 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 <h3>Date: 27-08-2026</h3>
-<h3>Name: Ashqar Ahamed S T </h3>
-<h3>Register Number: 212224240018  </h3>
+<h3>Name: Mithun Kumar G </h3>
+<h3>Register Number: 212224230160 </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
